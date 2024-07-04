@@ -1,3 +1,6 @@
+
+![download](https://github.com/mdhossain026/pydeck-sales/assets/531875/560dfdd3-1611-48fa-a619-200ab2040118)
+
 # insatll pydeck via pip
 pip install pydeck
 
@@ -41,3 +44,6 @@ view_state = pdk.ViewState(
 # Combined all of it and render a viewport
 r = pdk.Deck(layers=[layer], initial_view_state=view_state)
 r.to_html('sales_data_location.html')
+
+
+
