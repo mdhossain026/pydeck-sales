@@ -10,9 +10,9 @@ conda install -c conda-forge pydeck
 # create MAPBOX_API_KEY or GOOGLE_MAPS_API_KEY and set it 
 set a MAPBOX_API_KEY or GOOGLE_MAPS_API_KEY environment variables, pydeck will detect them.
 
-
-# import package
 ```python
+## import package
+
 import pandas as pd
 import pydeck
 import pydeck as pdk
