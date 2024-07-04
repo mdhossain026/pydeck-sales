@@ -12,13 +12,13 @@ set a MAPBOX_API_KEY or GOOGLE_MAPS_API_KEY environment variables, pydeck will d
 
 
 # import package
-```python
+
 import pandas as pd
 import pydeck
 import pydeck as pdk
 
 # read data from excel file
-```python
+
 df = pd.read_excel('STL_ORDER_DATA.xlsx') ## reading .xlsx file to Pandas DataFrame
 
 # layer creation
